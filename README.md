@@ -15,10 +15,13 @@ Literature Review
 4)	Why is cloud gaming essential for gaming industry?
 5)	How will cloud gaming effect gaming industry?
 6)	When is cloud gaming going to overtake traditional gaming?
+
 Methodology
 
 Introduction
+
 Video gaming has come a long way since the early days of Pong and Pac-man. We can now play affordable games of high caliber with 3D graphics and awesome interactivity in the comfort of our home, taking for granted the little and subtle improvements made to each and every console before becoming what they are today. In a way, the aggressive competition between companies of video game consoles had churned out the superior features of video gaming to bring to us the excellent quality we see today.
+
 There were more than 70 different consoles to date and now we are in the peak era of gaming console and video games. Now there are PS4, Xbox One X and Nintendo switch which are the latest consoles. There are still upcoming consoles which is the PS5 but besides gaming consoles a new era of gaming is starting to begin where there is no need of a console. You can play the same games in your mobile, TV, Computers and the best part is you can play it in a web browser you just need an internet access. With just a good internet access you can play the best upcoming, ongoing, past every game as you wish. So, what is this new era of gaming which will change the gaming world and will become the start of a new technological gaming era and maybe a light to the future of mankind’s technologies.
 
 
